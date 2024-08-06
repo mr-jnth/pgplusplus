@@ -1,0 +1,1 @@
+extern char* get_config_msg(char*);
